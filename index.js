@@ -1,4 +1,4 @@
-function whenPanelClicked() {
+function whenPanelClicked() { 
     alert("you clicked on a panel!")
 }
 function onPageReady() {
